@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Ahmad]]></title>
         <description><![CDATA[Ahmad]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ahmad/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 17:45:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 17:53:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ahmad/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78149716-4529-4f31-aca7-0ac90cef1709.png">]]></description>
-            <link>undefined81327054-b467-4ce1-a79e-ad74b8bbbcc9/index.html</link>
+            <link>https://thegrid.ai/ahmad/81327054-b467-4ce1-a79e-ad74b8bbbcc9/index.html</link>
             <guid isPermaLink="false">81327054-b467-4ce1-a79e-ad74b8bbbcc9</guid>
             <pubDate>Thu, 10 Mar 2016 17:45:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a7664cc-93dd-4b2a-983d-953a792d09a7.png">]]></description>
+            <link>https://thegrid.ai/ahmad/116d490a-7c19-46df-aeaf-9d69a89a9eea/index.html</link>
+            <guid isPermaLink="false">116d490a-7c19-46df-aeaf-9d69a89a9eea</guid>
+            <pubDate>Thu, 10 Mar 2016 17:52:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
